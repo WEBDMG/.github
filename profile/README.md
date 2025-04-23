@@ -1,3 +1,4 @@
+![alt text](AndroidHeader.jpg "WEBDMG LLC")
 WEBDMG, LLC is a digital design agency that specializes in iOS applications. Our passion lies in creating unique ideas with simple and intuitive design. We create innovative solutions to help you revolutionize how people consume your brand. We will work with you from concept to completion to bring your digital idea to life.
 
 
