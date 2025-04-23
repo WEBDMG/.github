@@ -21,7 +21,7 @@
 | **Grub Trucks** | A food truck discovery mobile app that helps users find and connect with local food trucks. | [Website](https://grubtrucks.info) · [App Store](https://apps.apple.com/us/app/grub-trucks/id1116325681) |
 | **Amari Ari** | A brand created by two young sisters, offering products like iMessage stickers and Apple Watch faces aimed at empowering girls. | [Website](https://amariari.com) · [App Store](https://apps.apple.com/us/app/amariari-stickers/id1234567890) |
 | **Casting** | A podcast hosting platform designed for simplicity, allowing users to easily upload and distribute their podcasts. | [Website](https://casting.gathr.me) |
-| **Gathr** | A native mobile app and website content management system enabling clients to update their app and website content in one place. | [Website](https://gathr.com) |
+| **Gathr** | A native mobile app and website content management system enabling clients to update their app and website content in one place. | [Website](https://gathr.me) |
 
 ---
 
