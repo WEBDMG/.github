@@ -17,13 +17,6 @@ Our work spans consumer apps, media infrastructure, and community engagement too
 
 ---
 
-## Technology
-- **Mobile:** SwiftUI, Kotlin, Firebase  
-- **Backend:** PHP (CodeIgniter), Node.js, Firestore, MySQL  
-- **Infrastructure:** Docker, AWS, GitHub Actions  
-
----
-
 ## Contact
 - [webdmg.com](http://webdmg.com)  
 - info@webdmg.com  
