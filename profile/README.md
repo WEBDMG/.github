@@ -18,6 +18,4 @@ Our work spans consumer apps, media infrastructure, and community engagement too
 ---
 
 ## Contact
-- [webdmg.com](http://webdmg.com)  
-- info@webdmg.com  
-- [grubtrucks.info](https://grubtrucks.info)  
+- [webdmg.com](http://webdmg.com)
